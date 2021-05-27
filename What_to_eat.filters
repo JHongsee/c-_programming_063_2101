@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="중식.cpp">
+    <ClCompile Include="chinese.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
