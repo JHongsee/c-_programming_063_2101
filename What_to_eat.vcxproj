@@ -140,7 +140,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chinese.cpp" />
+    <ClCompile Include="Etc.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Select.cpp" />
+    <ClCompile Include="Western.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="What_to_eat.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
