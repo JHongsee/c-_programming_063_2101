@@ -3,8 +3,8 @@
 void Western::ShowInfo() 
 {
 	int i = rand() % 8;
-	cout << food[i] << "Àº(´Â) ¾î¶§¿ä?" << endl << endl;
-	cout << "*****ÃßÃµ½Ä´ç*****" << endl;
+	cout << food[i] << "Ã€Âº(Â´Ã‚) Â¾Ã®Â¶Â§Â¿Ã¤?" << endl << endl;
+	cout << "*****ÃƒÃŸÃƒÂµÂ½Ã„Â´Ã§*****" << endl;
 
 	for (int j = 0; j < 3; j++)
 		cout << restaurant[i][j] << ' ' << Phone[i][j] << ' ' << Address[i][j] << endl;
